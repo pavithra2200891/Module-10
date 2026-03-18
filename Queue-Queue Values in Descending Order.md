@@ -9,6 +9,7 @@ To write a Python program to:
 - Remove the first two elements (simulating dequeue)
 - Display the remaining values in **descending order**
 
+
 ## 🧠 Algorithm
 
 1. Create an empty list `q`.
