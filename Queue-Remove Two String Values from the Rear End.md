@@ -20,6 +20,7 @@ To write a Python program to:
 5. Remove the next last element using `pop()` again.
 6. Display the updated list.
 
+
 ##  Program:
 ```
 from collections import deque
